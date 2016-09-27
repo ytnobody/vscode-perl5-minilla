@@ -11,7 +11,7 @@ perl5-minilla extension provides some Minilla features to VSCode seamlessly.
 * install Minilla
 * minil new 
 * minil build
-* minil test (ctrl + ?)
+* minil test (ctrl + shift + j)
 * minil release
 
 ## Requirements
