@@ -27,8 +27,8 @@ Not yet.
 
 Users appreciate release notes as you update your extension.
 
-### 1.0.0
+### 0.0.1
 
-Initial release
+Initial commit 
 
 **Enjoy!**
